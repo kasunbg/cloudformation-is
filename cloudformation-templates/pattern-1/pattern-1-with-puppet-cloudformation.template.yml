@@ -60,7 +60,7 @@ Mappings:
 # User inputs
 #############################
 Parameters:
-  jdk:
+  JDK:
     Type: String
     Default: "ORACLE_JDK8"
     Description: Target Java version
